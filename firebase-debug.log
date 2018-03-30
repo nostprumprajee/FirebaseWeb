@@ -1,0 +1,64 @@
+[debug] [2018-03-30T05:37:55.065Z] ----------------------------------------------------------------------
+[debug] [2018-03-30T05:37:55.068Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\nostw\AppData\Roaming\npm\node_modules\firebase-tools\bin\firebase serve
+[debug] [2018-03-30T05:37:55.068Z] CLI Version:   3.17.4
+[debug] [2018-03-30T05:37:55.068Z] Platform:      win32
+[debug] [2018-03-30T05:37:55.068Z] Node Version:  v8.9.1
+[debug] [2018-03-30T05:37:55.069Z] Time:          Fri Mar 30 2018 12:37:55 GMT+0700 (SE Asia Standard Time)
+[debug] [2018-03-30T05:37:55.069Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2018-03-30T05:37:55.078Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2018-03-30T05:37:55.079Z] > authorizing via signed-in user
+[debug] [2018-03-30T05:37:55.080Z] >>> HTTP REQUEST GET https://admin.firebase.com/v1/projects/facebookauth-1c1ee  
+  
+ Fri Mar 30 2018 12:37:55 GMT+0700 (SE Asia Standard Time)
+[debug] [2018-03-30T05:37:56.725Z] <<< HTTP RESPONSE 200
+[debug] [2018-03-30T05:37:56.725Z] >>> HTTP REQUEST GET https://admin.firebase.com/v1/database/facebookauth-1c1ee/tokens  
+  
+ Fri Mar 30 2018 12:37:56 GMT+0700 (SE Asia Standard Time)
+[debug] [2018-03-30T05:37:58.053Z] <<< HTTP RESPONSE 200
+[info] 
+[info] === Serving from 'C:\Users\nostw'...
+[info] 
+[debug] [2018-03-30T05:37:58.060Z] >>> HTTP REQUEST GET https://cloudresourcemanager.googleapis.com/v1/projects/facebookauth-1c1ee  
+  
+ Fri Mar 30 2018 12:37:58 GMT+0700 (SE Asia Standard Time)
+[debug] [2018-03-30T05:37:59.747Z] <<< HTTP RESPONSE 200
+[debug] [2018-03-30T05:37:59.747Z] >>> HTTP REQUEST GET https://mobilesdk-pa.googleapis.com/v1/projects/937339517502/clients/_:getWebAppConfig  
+  
+ Fri Mar 30 2018 12:37:59 GMT+0700 (SE Asia Standard Time)
+[debug] [2018-03-30T05:38:01.639Z] <<< HTTP RESPONSE 200
+[info] i  hosting: Serving hosting files from: public
+[info] +  hosting: Local server: http://localhost:5000
+
+[debug] [2018-03-30T06:06:35.633Z] ----------------------------------------------------------------------
+[debug] [2018-03-30T06:06:35.636Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\nostw\AppData\Roaming\npm\node_modules\firebase-tools\bin\firebase serve
+[debug] [2018-03-30T06:06:35.636Z] CLI Version:   3.17.4
+[debug] [2018-03-30T06:06:35.636Z] Platform:      win32
+[debug] [2018-03-30T06:06:35.636Z] Node Version:  v8.9.1
+[debug] [2018-03-30T06:06:35.636Z] Time:          Fri Mar 30 2018 13:06:35 GMT+0700 (SE Asia Standard Time)
+[debug] [2018-03-30T06:06:35.636Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2018-03-30T06:06:35.645Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2018-03-30T06:06:35.646Z] > authorizing via signed-in user
+[debug] [2018-03-30T06:06:35.647Z] >>> HTTP REQUEST GET https://admin.firebase.com/v1/projects/facebookauth-1c1ee  
+  
+ Fri Mar 30 2018 13:06:35 GMT+0700 (SE Asia Standard Time)
+[debug] [2018-03-30T06:06:40.118Z] <<< HTTP RESPONSE 200
+[debug] [2018-03-30T06:06:40.119Z] >>> HTTP REQUEST GET https://admin.firebase.com/v1/database/facebookauth-1c1ee/tokens  
+  
+ Fri Mar 30 2018 13:06:40 GMT+0700 (SE Asia Standard Time)
+[debug] [2018-03-30T06:06:42.430Z] <<< HTTP RESPONSE 200
+[info] 
+[info] === Serving from 'C:\Users\nostw'...
+[info] 
+[debug] [2018-03-30T06:06:42.433Z] >>> HTTP REQUEST GET https://cloudresourcemanager.googleapis.com/v1/projects/facebookauth-1c1ee  
+  
+ Fri Mar 30 2018 13:06:42 GMT+0700 (SE Asia Standard Time)
+[debug] [2018-03-30T06:06:45.695Z] <<< HTTP RESPONSE 200
+[debug] [2018-03-30T06:06:45.696Z] >>> HTTP REQUEST GET https://mobilesdk-pa.googleapis.com/v1/projects/937339517502/clients/_:getWebAppConfig  
+  
+ Fri Mar 30 2018 13:06:45 GMT+0700 (SE Asia Standard Time)
+[debug] [2018-03-30T06:06:48.970Z] <<< HTTP RESPONSE 200
+[info] i  hosting: Serving hosting files from: public
+[info] +  hosting: Local server: http://localhost:5000
+
